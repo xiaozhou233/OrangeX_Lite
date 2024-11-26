@@ -1,0 +1,4 @@
+rootProject.name = 'Lite'
+include 'Agent'
+include 'JuiceMixin'
+
